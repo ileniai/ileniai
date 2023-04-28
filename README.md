@@ -29,8 +29,7 @@
 </div>
 <h3 align="left">📂 My Projects:</h3>
 
-<p align="left"><a href="https://luisazizzo.github.io/beautyAndGold/" target="_blank">Cool Adress Book</a></p>
-<p align="left"><a href="https://cocktails-eta.vercel.app/" target="_blank">Cocktail Drink</a></p>
+<p align="left"><a href="https://github.com/ileniai/Cocktail-vite" target="_blank">Cocktail Drink</a></p>
 
 </div>
 </body>
