@@ -2,10 +2,7 @@
 <body>
 <div style="display: flex; align-items: left; justify-content: left; flex-direction: column;">
       
-<div style="display: flex; gap: 10px;  flex-direction: column; align-items: left; justify-content: left;">
-  <p align="center"><img src="https://media.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif"></p>
-  </div>  
-
+  <p align="center"><img src="https://media.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif" style="width: 450px;"></p>
 <div align="left">
     <h3>🙋‍♀️ About Me:</h3>
   Welcome to my GitHub profile. <br>
