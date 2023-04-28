@@ -29,7 +29,7 @@
 </div>
 <h3 align="left">📂 My Projects:</h3>
 
-<p align="left"><a href="https://github.com/ileniai/Cocktail-vite" target="_blank">Cocktail Drink</a></p>
+<p align="left"><a href="https://cocktail-vite-black.vercel.app/" target="_blank">Cocktail Drink</a></p>
 
 </div>
 </body>
